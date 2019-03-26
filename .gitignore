@@ -1,0 +1,5 @@
+.vscode/*
+.vs/*
+obj
+DatingApp/DatingApp.API/obj/*
+DatingApp/DatingApp.API/bin/*
