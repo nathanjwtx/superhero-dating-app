@@ -1,6 +1,6 @@
 .vscode/*
 .vs/*
 obj
-DatingApp/DatingApp.API/obj/*
-DatingApp/DatingApp.API/bin/*
-DatingApp/DatingApp.API/.vs/*
+DatingApp.API/obj/*
+DatingApp.API/bin/*
+DatingApp.API/.vs/*
